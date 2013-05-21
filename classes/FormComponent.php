@@ -21,8 +21,7 @@ abstract class FormComponent extends IChildComponent {
     protected $queryStringArray;
     protected $label;
 
-    function __construct($label = "", $id = "", $selector = "", $queryStringArray = "", $prepend = ""
-    , $append = "", $tooltip = "", $classes = "", $content = "", $onblur = "", $onchange = "", $onclick = "") {
+    function __construct($label = "", $id = "", $selector = "", $queryStringArray = "", $prepend = "", $append = "", $tooltip = "", $classes = "", $content = "", $onblur = "", $onchange = "", $onclick = "") {
         parent::__construct($id, $classes, $prepend, $append, "", $onclick, $content);
         $this->label = $label;
         $this->selector = $selector;

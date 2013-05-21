@@ -4,7 +4,7 @@
         <title>Bootstrap 101 Template</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="css/bootstrap.css" rel="stylesheet" media="screen">
         <link href="css/docs.css" rel="stylesheet" media="screen">
         <script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
